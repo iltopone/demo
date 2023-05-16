@@ -1,22 +1,79 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "users": [
-  { "id": 1, "nome": "Mario", "cognome": "Rossi" },
-  { "id": 2, "nome": "Giovanni", "cognome": "Pascoli" },
-  { "id": 3, "nome": "Dio", "cognome": "Porco" }
-],
+    {
+      "id": 1,
+      "nome": "Mario",
+      "cognome": "Rossi"
+    },
+    {
+      "id": 2,
+      "nome": "Giovanni",
+      "cognome": "Pascoli"
+    },
+    {
+      "id": 3,
+      "nome": "Dio",
+      "cognome": "Porco"
+    }
+  ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
   },
   "winner": {
-    "index": "7"
-  }
+    "index": "5"
+  },
+  "spicchi": [
+    {
+      "text": "foo",
+      "color": "red",
+      "textStyle": {"color": "yellow","fontFamily": "monospace"}
+    },
+    {
+      "text": "100pepitedoro"
+    },
+    {
+      "text": "truscello"
+    },
+    {
+      "text": "qux"
+    },
+    {
+      "text": "quux"
+    },
+    {
+      "text": "la madonna"
+    },
+    {
+      "text": "porcoddio"
+    },
+    {
+      "text": "porcoddiocane"
+    }
+  ]
 }
