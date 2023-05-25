@@ -47,33 +47,5 @@
   },
   "winner": {
     "index": "5"
-  },
-  "spicchi": [
-    {
-      "text": "foo",
-      "color": "red",
-      "textStyle": {"color": "yellow","fontFamily": "monospace"}
-    },
-    {
-      "text": "100pepitedoro"
-    },
-    {
-      "text": "truscello"
-    },
-    {
-      "text": "qux"
-    },
-    {
-      "text": "quux"
-    },
-    {
-      "text": "la madonna"
-    },
-    {
-      "text": "porcoddio"
-    },
-    {
-      "text": "porcoddiocane"
-    }
-  ]
+  }  
 }
